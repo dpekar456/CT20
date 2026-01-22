@@ -1,0 +1,5 @@
+Ok so my idea has shifted to a circus pinwheel. Currently I'm stuck on my background, i've tried some of the fixes and I think im following
+the code rules correctly but maybe my format doesn't allow inputting an image as the background? I've tried placing the image on the draw function but then 
+I run into the issue of when I *almost* rotated the cylinder and part of it gets cut off by my image. another thing I'm attempting to do is limit the rotate ability to just 
+spinning the wheel by itself, I'm using the correct axis to limit spin however it is not allowing any movement. I think I need to solve the original issue of instead of
+manually rotating the cylinder it needs to be rotated originally so I can work on the same 'surface'.
