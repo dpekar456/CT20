@@ -1,0 +1,9 @@
+Ok so I ran into a few problems with my coding, at first I had some struggle with learning color lerp but i did some outside 
+research at i understand it better now. I also had a struggle with the colors themselves, I got the code functioning but
+it ended up giving more rainbow than gradient with my initial colors, although i did pick colors on the opposite of the color
+spectrum(orange and blue) it went through several colors before getting to blue, i found a fix for it(making on of the hsl values
+for the blue negative so it goes the other way in the spectrum) but i still didn't like how it looked even though it was working 
+properly now. I decided to do an orange to yellow gradient instead because I really wanted to keep the same shade of orange
+but I'm flexible with the other color, i decided to name it mango because it likes like those colors. this is one of the projects
+from the book, I think I executed it pretty well. I'm really looking forward to the next project as I already have my idea for
+it.
